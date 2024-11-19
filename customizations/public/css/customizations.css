@@ -1,0 +1,14 @@
+/* Change background color */
+body.main-section {
+    background-color: #f5f5f5; /* Use your desired color */
+}
+
+/* Customize header */
+.navbar.navbar-default {
+    background-color: #003366; /* Example color */
+    color: #fff;
+}
+
+.navbar.navbar-default .navbar-brand {
+    color: #fff;
+}
